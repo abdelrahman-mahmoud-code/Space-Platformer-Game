@@ -7,6 +7,12 @@ tracking, difficulty scaling, and a binary-based scoring system
 - Built interactive features such as a settings panel, pause function, event-driven controls, and persistent high score saving for
 an engaging gameplay experience.
 
+
+
+https://github.com/user-attachments/assets/46e92bfe-3bc3-46de-96e1-5d3635c09a27
+
+
+
 ![preview-1](https://github.com/user-attachments/assets/98efb810-747c-4ff8-9a9a-c219e7e11d0e)
 ![preview-2](https://github.com/user-attachments/assets/f0e688e8-9e06-4c92-b959-2a0aebd90249)
 ![preview-3](https://github.com/user-attachments/assets/fcf9e037-41b2-43c5-b0c3-90d6d2c2e1c0)
